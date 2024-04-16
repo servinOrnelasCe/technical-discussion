@@ -4,3 +4,8 @@ This is a demo repo for a Technical Discussions with Markdown, GitHub and Jupyte
 ## this is a second heading
 
 * one
+* two
+* three
+
+# gist
+This is an example of [my code](<script src="https://gist.github.com/servinOrnelasCe/1d51bfec573fec964cc444e07891a685.js"></script>)

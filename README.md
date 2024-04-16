@@ -12,3 +12,6 @@ This is an example of [my code.](https://gist.github.com/servinOrnelasCe/1d51bfe
 
 # colab
 This is [my notebook.](https://github.com/servinOrnelasCe/technical-discussion/blob/main/technical_docs.ipynb)
+
+# image
+![image](https://github.com/servinOrnelasCe/technical-discussion/assets/147122235/8d992169-d468-4e0f-b47c-a7e37d86b720)
